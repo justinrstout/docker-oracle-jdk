@@ -3,8 +3,8 @@ FROM centos:7
 MAINTAINER Justin R. Stout <justinrstout@justinrstout.com>
 
 ENV JAVA_VERSION 8
-ENV JAVA_UPDATE 45
-ENV JAVA_BUILD 14
+ENV JAVA_UPDATE 51
+ENV JAVA_BUILD 16
 
 RUN yum install -y wget
 
